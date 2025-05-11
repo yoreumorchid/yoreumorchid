@@ -1,4 +1,4 @@
-## Hi there★☆ I'm YingQi!
+## Hi there★☆
 * I'm a 2nd year Software Engineering student at the University Malaya.
 * Currently, I'm learning about backend development and aiming to become a full-stack developer.
 * I love participating in hackathons and collaborating on interesting projects!
